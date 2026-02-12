@@ -1,5 +1,5 @@
 html, body {
-        background-image: url(mmm.jpg);
+        background-image: url(fondo.jpg);
 }
 
 #inicio h1 {
@@ -114,4 +114,5 @@ p {
         flex-direction: column;
         padding: 20px;
     }
+
 }
