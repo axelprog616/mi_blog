@@ -1,5 +1,5 @@
 html, body {
-        background-image: url(fondo.jpg);
+        background-color: rgb(92, 118, 140);
 }
 
 #inicio h1 {
@@ -116,3 +116,4 @@ p {
     }
 
 }
+
